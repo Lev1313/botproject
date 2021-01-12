@@ -3,7 +3,7 @@ import telebot
 import requests
 import random
 # Указываем токен
-bot = telebot.TeleBot('1592617905:AAEt8WNuHnMWChAGUfW_aOGFab269DNGwjk')
+bot = telebot.TeleBot('Token')
 # Импортируем типы из модуля, чтобы создавать кнопки
 from telebot import types
 # Метод, который получает сообщения и обрабатывает их
